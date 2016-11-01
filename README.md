@@ -1,6 +1,3 @@
-# scrawls
+# practice-cpp
 
-Hi Pretzel lovers,
-
-This repositry is for random (entry-level) projects and random thoughts, for the most part, in c++!
-
+This is the home of computer science topics in c++!
