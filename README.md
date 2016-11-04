@@ -1,3 +1,6 @@
 # practice-cpp
 
-This is the home of computer science topics in c++!
+Practice for core computer science topics in c++.
+
+
+~PS
