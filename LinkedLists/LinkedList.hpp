@@ -16,8 +16,6 @@ public:
   LinkedList(); //default constructor
   LinkedList(T); //constructor
   ~LinkedList(); //destructor
-//  LinkedList(const LinkedList&); //copy constructor
-//  LinkedList& operator=(const LinkedList&); //overloaded assignment operator
   int getSize() const; //returns size of LinkedList
   bool isEmpty() const; //returns T if empty
   void insert(int, T); //pushes a value at a given position

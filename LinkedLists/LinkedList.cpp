@@ -35,18 +35,6 @@ LinkedList<T>::~LinkedList() {
   }
 }
 
-//Copy constructor
-/*template <class T>
-LinkedList<T>::LinkedList(const LinkedList &obj) {
-
-}
-
-//overloaded assignment operator
-template <class T>
-LinkedList<T>& LinkedList<T>::operator=(const LinkedList &rhs) {
-
-}*/
-
 //Returns the size of LinkedList
 template <class T>
 int LinkedList<T>::getSize() const {
