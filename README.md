@@ -1,6 +1,10 @@
 # practice-cpp
 
-Practice for core computer science topics in c++.
+This is a sandbox for practicing core computer science topics, particularly implementing data structures.
 
-
-~PS
+    .'  `'._.'`  '.
+   |  .--;   ;--.  |
+   |  (  /   \  )  |
+    \  ;` /^\ `;  /
+     :` .'._.'. `;
+     '-`'.___.'`-'
